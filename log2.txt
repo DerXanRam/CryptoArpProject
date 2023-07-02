@@ -1,0 +1,4008 @@
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"160861.00000000","askPrice":"0.47510000","askQty":"61746.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"160920.00000000","askPrice":"0.47510000","askQty":"61760.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"160920.00000000","askPrice":"0.47510000","askQty":"61760.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"160923.00000000","askPrice":"0.47510000","askQty":"61760.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"172261.00000000","askPrice":"0.47510000","askQty":"61674.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"172261.00000000","askPrice":"0.47510000","askQty":"61674.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"172111.00000000","askPrice":"0.47510000","askQty":"41112.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"172111.00000000","askPrice":"0.47510000","askQty":"61450.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"172193.00000000","askPrice":"0.47510000","askQty":"63115.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"160885.00000000","askPrice":"0.47510000","askQty":"72676.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"161006.00000000","askPrice":"0.47510000","askQty":"72676.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162019.00000000","askPrice":"0.47510000","askQty":"72676.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162021.00000000","askPrice":"0.47510000","askQty":"72018.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162021.00000000","askPrice":"0.47510000","askQty":"72018.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"161008.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162065.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162088.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162374.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162374.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162351.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162351.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"162357.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"163272.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"163385.00000000","askPrice":"0.47510000","askQty":"62558.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47500000","bidQty":"79373.00000000","askPrice":"0.47510000","askQty":"89372.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.4751
+ 		net is -0.023906
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"56305.00000000","askPrice":"0.47500000","askQty":"108248.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.475
+ 		net is -0.0260106
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"114308.00000000","askPrice":"0.47500000","askQty":"130945.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.475
+ 		net is -0.0260106
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01367311","price":"0.47516681","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"112808.00000000","askPrice":"0.47500000","askQty":"130828.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475167 and sell at spot price 0.475
+ 		net is -0.0260106
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"177062.00000000","askPrice":"0.47500000","askQty":"74648.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"142851.00000000","askPrice":"0.47500000","askQty":"74791.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"140864.00000000","askPrice":"0.47500000","askQty":"74791.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"120092.00000000","askPrice":"0.47500000","askQty":"82480.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"140654.00000000","askPrice":"0.47500000","askQty":"82337.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"127759.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"120092.00000000","askPrice":"0.47500000","askQty":"103484.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"140654.00000000","askPrice":"0.47500000","askQty":"103484.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"140654.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"145558.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"145558.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143990.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143990.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143990.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143886.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143904.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143854.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143695.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143695.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143695.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143695.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"143708.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"146704.00000000","askPrice":"0.47500000","askQty":"92958.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"146716.00000000","askPrice":"0.47500000","askQty":"105090.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47490000","bidQty":"146716.00000000","askPrice":"0.47500000","askQty":"105090.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.475
+ 		net is -0.0238413
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47480000","bidQty":"30770.00000000","askPrice":"0.47490000","askQty":"100528.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4749
+ 		net is -0.0259463
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47480000","bidQty":"57038.00000000","askPrice":"0.47490000","askQty":"114528.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4749
+ 		net is -0.0259463
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47480000","bidQty":"57038.00000000","askPrice":"0.47490000","askQty":"114528.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4749
+ 		net is -0.0259463
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47480000","bidQty":"57038.00000000","askPrice":"0.47490000","askQty":"114551.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4749
+ 		net is -0.0259463
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47480000","bidQty":"47063.00000000","askPrice":"0.47490000","askQty":"124498.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4749
+ 		net is -0.0259463
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.01823312","price":"0.47506372","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"15143.00000000","askPrice":"0.47480000","askQty":"159278.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.475064 and sell at spot price 0.4748
+ 		net is -0.0280513
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"55470.00000000","askPrice":"0.47480000","askQty":"125467.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"60109.00000000","askPrice":"0.47480000","askQty":"135997.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"60178.00000000","askPrice":"0.47480000","askQty":"135349.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"41812.00000000","askPrice":"0.47480000","askQty":"135349.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"56966.00000000","askPrice":"0.47480000","askQty":"135372.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"41793.00000000","askPrice":"0.47480000","askQty":"137096.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4748
+ 		net is -0.0251598
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.02431389","price":"0.47492632","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"14569.00000000","askPrice":"0.47470000","askQty":"164475.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474926 and sell at spot price 0.4747
+ 		net is -0.0272654
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"68001.00000000","askPrice":"0.47460000","askQty":"91977.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111754.00000000","askPrice":"0.47460000","askQty":"49793.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111754.00000000","askPrice":"0.47460000","askQty":"49782.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"81027.00000000","askPrice":"0.47460000","askQty":"111010.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"84944.00000000","askPrice":"0.47460000","askQty":"111010.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"84944.00000000","askPrice":"0.47460000","askQty":"124866.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"93955.00000000","askPrice":"0.47460000","askQty":"91191.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"93803.00000000","askPrice":"0.47460000","askQty":"91191.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"93803.00000000","askPrice":"0.47460000","askQty":"91023.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"109315.00000000","askPrice":"0.47460000","askQty":"102463.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"109315.00000000","askPrice":"0.47460000","askQty":"97225.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"46349.00000000","askPrice":"0.47460000","askQty":"138279.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"123505.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"127698.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"125711.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"125711.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"125711.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115035.00000000","askPrice":"0.47460000","askQty":"123605.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"134338.00000000","askPrice":"0.47460000","askQty":"109605.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"134196.00000000","askPrice":"0.47460000","askQty":"109605.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"122039.00000000","askPrice":"0.47460000","askQty":"98165.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133141.00000000","askPrice":"0.47460000","askQty":"70315.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133141.00000000","askPrice":"0.47460000","askQty":"74315.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133141.00000000","askPrice":"0.47460000","askQty":"74315.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132631.00000000","askPrice":"0.47460000","askQty":"74315.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0257914","price":"0.47489294","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132632.00000000","askPrice":"0.47460000","askQty":"74315.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474893 and sell at spot price 0.4746
+ 		net is -0.0286685
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132560.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132560.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132572.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132572.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132543.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"132677.00000000","askPrice":"0.47460000","askQty":"61390.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"81952.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"81126.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"70294.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"70294.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"70294.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"70294.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"134135.00000000","askPrice":"0.47460000","askQty":"98659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"98659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"121575.00000000","askPrice":"0.47460000","askQty":"98659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"60248.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"60248.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"60248.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133611.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133149.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133029.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133029.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133029.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"59617.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"63295.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"50021.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"133074.00000000","askPrice":"0.47460000","askQty":"50021.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"117859.00000000","askPrice":"0.47470000","askQty":"70581.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"123233.00000000","askPrice":"0.47470000","askQty":"83466.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110739.00000000","askPrice":"0.47470000","askQty":"87659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110739.00000000","askPrice":"0.47470000","askQty":"87659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110828.00000000","askPrice":"0.47470000","askQty":"86060.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110828.00000000","askPrice":"0.47470000","askQty":"84384.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110828.00000000","askPrice":"0.47470000","askQty":"84384.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110803.00000000","askPrice":"0.47470000","askQty":"84384.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110803.00000000","askPrice":"0.47470000","askQty":"84384.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"110803.00000000","askPrice":"0.47470000","askQty":"84384.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"63928.00000000","askPrice":"0.47470000","askQty":"104832.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"99208.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"88675.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109577.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109581.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109581.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109581.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109581.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109581.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109593.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109593.00000000","askPrice":"0.47470000","askQty":"86688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"118365.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"118365.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"118305.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"117621.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"117621.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"107383.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"107491.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92218.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92218.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92218.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"107376.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"107376.00000000","askPrice":"0.47470000","askQty":"81919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81053.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81155.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81155.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81155.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"91688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"91688.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81155.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"92224.00000000","askPrice":"0.47470000","askQty":"81155.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"146787.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148774.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"17361.00000000","askPrice":"0.47470000","askQty":"148737.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148737.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148737.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148635.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148635.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"2329.00000000","askPrice":"0.47470000","askQty":"148495.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"113802.00000000","askPrice":"0.47460000","askQty":"85009.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"113802.00000000","askPrice":"0.47460000","askQty":"85009.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"113802.00000000","askPrice":"0.47460000","askQty":"65078.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"105499.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"101766.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"101766.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"100564.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115502.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115516.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115489.00000000","askPrice":"0.47460000","askQty":"65100.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"115538.00000000","askPrice":"0.47460000","askQty":"74581.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154848.00000000","askPrice":"0.47460000","askQty":"45540.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"163748.00000000","askPrice":"0.47460000","askQty":"9503.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4746
+ 		net is -0.0266125
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"109730.00000000","askPrice":"0.47470000","askQty":"72691.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94833.00000000","askPrice":"0.47470000","askQty":"72691.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94833.00000000","askPrice":"0.47470000","askQty":"68425.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94833.00000000","askPrice":"0.47470000","askQty":"68425.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94846.00000000","askPrice":"0.47470000","askQty":"68425.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94846.00000000","askPrice":"0.47470000","askQty":"66726.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"94846.00000000","askPrice":"0.47470000","askQty":"66726.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"65716.00000000","askPrice":"0.47470000","askQty":"89932.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"65716.00000000","askPrice":"0.47470000","askQty":"89932.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"75889.00000000","askPrice":"0.47470000","askQty":"89932.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"75889.00000000","askPrice":"0.47470000","askQty":"89932.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"77489.00000000","askPrice":"0.47470000","askQty":"90282.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"77489.00000000","askPrice":"0.47470000","askQty":"90282.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90282.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90282.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"90271.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"72971.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"70984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"70984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"90680.00000000","askPrice":"0.47470000","askQty":"70984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97716.00000000","askPrice":"0.47470000","askQty":"80382.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97716.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97716.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97716.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97656.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"69543.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"88989.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79789.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"86218.00000000","askPrice":"0.47470000","askQty":"72890.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"84618.00000000","askPrice":"0.47470000","askQty":"72878.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"84618.00000000","askPrice":"0.47470000","askQty":"72878.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"84618.00000000","askPrice":"0.47470000","askQty":"72878.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"64351.00000000","askPrice":"0.47470000","askQty":"105755.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"19741.00000000","askPrice":"0.47470000","askQty":"119755.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"21882.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"24811.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"25183.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"22263.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"22372.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"22372.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"20113.00000000","askPrice":"0.47470000","askQty":"125176.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"82974.00000000","askPrice":"0.47470000","askQty":"97299.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"82919.00000000","askPrice":"0.47470000","askQty":"98945.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"82960.00000000","askPrice":"0.47470000","askQty":"89466.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"71818.00000000","askPrice":"0.47470000","askQty":"89466.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"71818.00000000","askPrice":"0.47470000","askQty":"87479.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"72351.00000000","askPrice":"0.47470000","askQty":"87479.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"72242.00000000","askPrice":"0.47470000","askQty":"107482.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"72263.00000000","askPrice":"0.47470000","askQty":"107482.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79328.00000000","askPrice":"0.47470000","askQty":"77551.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79331.00000000","askPrice":"0.47470000","askQty":"77551.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79265.00000000","askPrice":"0.47470000","askQty":"77625.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79265.00000000","askPrice":"0.47470000","askQty":"77625.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79265.00000000","askPrice":"0.47470000","askQty":"53174.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79279.00000000","askPrice":"0.47470000","askQty":"76861.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79312.00000000","askPrice":"0.47470000","askQty":"67206.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"79312.00000000","askPrice":"0.47470000","askQty":"54139.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97771.00000000","askPrice":"0.47470000","askQty":"67101.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"97771.00000000","askPrice":"0.47470000","askQty":"58131.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98100.00000000","askPrice":"0.47470000","askQty":"61605.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98125.00000000","askPrice":"0.47470000","askQty":"48538.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98134.00000000","askPrice":"0.47470000","askQty":"52704.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98134.00000000","askPrice":"0.47470000","askQty":"48568.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98140.00000000","askPrice":"0.47470000","askQty":"61530.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98140.00000000","askPrice":"0.47470000","askQty":"61530.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"98140.00000000","askPrice":"0.47470000","askQty":"61530.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"131100.00000000","askPrice":"0.47470000","askQty":"33930.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"131099.00000000","askPrice":"0.47470000","askQty":"33830.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"118768.00000000","askPrice":"0.47480000","askQty":"44500.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"121996.00000000","askPrice":"0.47480000","askQty":"73758.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"121996.00000000","askPrice":"0.47480000","askQty":"68051.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"124008.00000000","askPrice":"0.47480000","askQty":"59374.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"128955.00000000","askPrice":"0.47480000","askQty":"39856.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"128955.00000000","askPrice":"0.47480000","askQty":"49221.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"126943.00000000","askPrice":"0.47480000","askQty":"53965.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"68143.00000000","askPrice":"0.47480000","askQty":"104656.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"68557.00000000","askPrice":"0.47480000","askQty":"112546.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"108893.00000000","askPrice":"0.47480000","askQty":"112546.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"105238.00000000","askPrice":"0.47480000","askQty":"114533.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"107491.00000000","askPrice":"0.47480000","askQty":"114533.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47470000","bidQty":"105479.00000000","askPrice":"0.47480000","askQty":"114333.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4748
+ 		net is -0.0224002
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03011715","price":"0.47479526","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"14143.00000000","askPrice":"0.47470000","askQty":"174403.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474795 and sell at spot price 0.4747
+ 		net is -0.0245063
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"101931.00000000","askPrice":"0.47460000","askQty":"93650.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"94941.00000000","askPrice":"0.47460000","askQty":"94191.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72004.00000000","askPrice":"0.47460000","askQty":"105814.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72066.00000000","askPrice":"0.47460000","askQty":"96674.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72122.00000000","askPrice":"0.47460000","askQty":"96361.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72122.00000000","askPrice":"0.47460000","askQty":"96361.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"73058.00000000","askPrice":"0.47460000","askQty":"86199.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72091.00000000","askPrice":"0.47460000","askQty":"86199.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72813.00000000","askPrice":"0.47460000","askQty":"62473.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"72813.00000000","askPrice":"0.47460000","askQty":"68006.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"64427.00000000","askPrice":"0.47460000","askQty":"64514.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"46108.00000000","askPrice":"0.47460000","askQty":"87790.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"46138.00000000","askPrice":"0.47460000","askQty":"94272.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"46180.00000000","askPrice":"0.47460000","askQty":"105046.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"47477.00000000","askPrice":"0.47460000","askQty":"106708.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"47486.00000000","askPrice":"0.47460000","askQty":"106708.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4746
+ 		net is -0.0259815
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03144494","price":"0.47476529","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"112789.00000000","askPrice":"0.47450000","askQty":"96258.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474765 and sell at spot price 0.4745
+ 		net is -0.0280878
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.03459327","price":"0.47469423","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"93658.00000000","askPrice":"0.47450000","askQty":"88882.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474694 and sell at spot price 0.4745
+ 		net is -0.0265917
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"93198.00000000","askPrice":"0.47450000","askQty":"67362.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"93260.00000000","askPrice":"0.47450000","askQty":"68331.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"101392.00000000","askPrice":"0.47450000","askQty":"68331.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"122437.00000000","askPrice":"0.47450000","askQty":"68331.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"122486.00000000","askPrice":"0.47450000","askQty":"68331.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"130776.00000000","askPrice":"0.47450000","askQty":"68331.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"109060.00000000","askPrice":"0.47450000","askQty":"64787.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"107592.00000000","askPrice":"0.47450000","askQty":"64787.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"117656.00000000","askPrice":"0.47450000","askQty":"64659.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"117688.00000000","askPrice":"0.47450000","askQty":"38783.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"131546.00000000","askPrice":"0.47450000","askQty":"38169.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"131546.00000000","askPrice":"0.47450000","askQty":"57702.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"117563.00000000","askPrice":"0.47450000","askQty":"58548.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"117563.00000000","askPrice":"0.47450000","askQty":"58548.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"117563.00000000","askPrice":"0.47450000","askQty":"44273.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"119240.00000000","askPrice":"0.47450000","askQty":"39034.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"119241.00000000","askPrice":"0.47450000","askQty":"39034.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"119241.00000000","askPrice":"0.47450000","askQty":"58464.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47440000","bidQty":"119241.00000000","askPrice":"0.47450000","askQty":"34931.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4745
+ 		net is -0.0259606
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"182531.00000000","askPrice":"0.47460000","askQty":"25998.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"137328.00000000","askPrice":"0.47460000","askQty":"60552.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"169897.00000000","askPrice":"0.47460000","askQty":"37913.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"169940.00000000","askPrice":"0.47460000","askQty":"39996.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"169940.00000000","askPrice":"0.47460000","askQty":"39996.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"169940.00000000","askPrice":"0.47460000","askQty":"23435.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"175182.00000000","askPrice":"0.47460000","askQty":"19966.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"175391.00000000","askPrice":"0.47460000","askQty":"15966.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"125206.00000000","askPrice":"0.47470000","askQty":"72781.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"126599.00000000","askPrice":"0.47470000","askQty":"56811.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"126599.00000000","askPrice":"0.47470000","askQty":"56811.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"126599.00000000","askPrice":"0.47470000","askQty":"56811.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"166899.00000000","askPrice":"0.47470000","askQty":"55408.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"86069.00000000","askPrice":"0.47470000","askQty":"64769.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"87658.00000000","askPrice":"0.47470000","askQty":"86944.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"68823.00000000","askPrice":"0.47470000","askQty":"97322.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"68823.00000000","askPrice":"0.47470000","askQty":"97322.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"59871.00000000","askPrice":"0.47470000","askQty":"101515.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"22302.00000000","askPrice":"0.47470000","askQty":"114168.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"1116.00000000","askPrice":"0.47470000","askQty":"141620.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"110964.00000000","askPrice":"0.47460000","askQty":"94553.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111807.00000000","askPrice":"0.47460000","askQty":"94553.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111922.00000000","askPrice":"0.47460000","askQty":"94523.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"112059.00000000","askPrice":"0.47460000","askQty":"94638.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"112039.00000000","askPrice":"0.47460000","askQty":"94797.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"112076.00000000","askPrice":"0.47460000","askQty":"94878.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"112076.00000000","askPrice":"0.47460000","askQty":"94878.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"112036.00000000","askPrice":"0.47460000","askQty":"94696.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111944.00000000","askPrice":"0.47460000","askQty":"94615.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"111958.00000000","askPrice":"0.47460000","askQty":"94578.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"106716.00000000","askPrice":"0.47460000","askQty":"94578.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"107465.00000000","askPrice":"0.47460000","askQty":"94578.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"106717.00000000","askPrice":"0.47460000","askQty":"94578.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"106558.00000000","askPrice":"0.47460000","askQty":"91746.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"26909.00000000","askPrice":"0.47460000","askQty":"141622.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"58823.00000000","askPrice":"0.47460000","askQty":"143125.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"58823.00000000","askPrice":"0.47460000","askQty":"143125.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"54684.00000000","askPrice":"0.47460000","askQty":"148392.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"54684.00000000","askPrice":"0.47460000","askQty":"148392.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"21040.00000000","askPrice":"0.47460000","askQty":"148392.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"21054.00000000","askPrice":"0.47460000","askQty":"162392.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"21435.00000000","askPrice":"0.47460000","askQty":"162485.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"40972.00000000","askPrice":"0.47460000","askQty":"162418.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"41476.00000000","askPrice":"0.47460000","askQty":"162418.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"41476.00000000","askPrice":"0.47460000","askQty":"162418.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"22095.00000000","askPrice":"0.47460000","askQty":"162418.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"41639.00000000","askPrice":"0.47460000","askQty":"162345.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"113167.00000000","askPrice":"0.47460000","askQty":"118310.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120463.00000000","askPrice":"0.47460000","askQty":"96769.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"137866.00000000","askPrice":"0.47460000","askQty":"86525.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"123611.00000000","askPrice":"0.47460000","askQty":"83544.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174246.00000000","askPrice":"0.47460000","askQty":"100829.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174246.00000000","askPrice":"0.47460000","askQty":"99151.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174246.00000000","askPrice":"0.47460000","askQty":"93884.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174332.00000000","askPrice":"0.47460000","askQty":"93884.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"173124.00000000","askPrice":"0.47460000","askQty":"94893.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174589.00000000","askPrice":"0.47460000","askQty":"94893.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174608.00000000","askPrice":"0.47460000","askQty":"105571.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174608.00000000","askPrice":"0.47460000","askQty":"105571.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174608.00000000","askPrice":"0.47460000","askQty":"105571.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"174648.00000000","askPrice":"0.47460000","askQty":"105571.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"131731.00000000","askPrice":"0.47460000","askQty":"116219.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"123991.00000000","askPrice":"0.47460000","askQty":"116219.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"119682.00000000","askPrice":"0.47460000","askQty":"126630.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"119682.00000000","askPrice":"0.47460000","askQty":"132195.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"119682.00000000","askPrice":"0.47460000","askQty":"132195.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"119682.00000000","askPrice":"0.47460000","askQty":"126928.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120103.00000000","askPrice":"0.47460000","askQty":"126928.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120103.00000000","askPrice":"0.47460000","askQty":"125386.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120129.00000000","askPrice":"0.47460000","askQty":"125515.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120129.00000000","askPrice":"0.47460000","askQty":"121293.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120129.00000000","askPrice":"0.47460000","askQty":"121293.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120129.00000000","askPrice":"0.47460000","askQty":"122561.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120129.00000000","askPrice":"0.47460000","askQty":"122561.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120170.00000000","askPrice":"0.47460000","askQty":"122561.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"120170.00000000","askPrice":"0.47460000","askQty":"127828.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"130431.00000000","askPrice":"0.47460000","askQty":"127828.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"138254.00000000","askPrice":"0.47460000","askQty":"108226.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145393.00000000","askPrice":"0.47460000","askQty":"78299.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145405.00000000","askPrice":"0.47460000","askQty":"78299.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145405.00000000","askPrice":"0.47460000","askQty":"103099.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145405.00000000","askPrice":"0.47460000","askQty":"84444.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145405.00000000","askPrice":"0.47460000","askQty":"84444.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145410.00000000","askPrice":"0.47460000","askQty":"84444.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145410.00000000","askPrice":"0.47460000","askQty":"91313.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145410.00000000","askPrice":"0.47460000","askQty":"97016.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"145410.00000000","askPrice":"0.47460000","askQty":"97016.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"156336.00000000","askPrice":"0.47460000","askQty":"93829.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"152994.00000000","askPrice":"0.47460000","askQty":"83628.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"152994.00000000","askPrice":"0.47460000","askQty":"83628.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"153001.00000000","askPrice":"0.47460000","askQty":"83628.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"149819.00000000","askPrice":"0.47460000","askQty":"76483.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154930.00000000","askPrice":"0.47460000","askQty":"78165.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154714.00000000","askPrice":"0.47460000","askQty":"97698.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151378.00000000","askPrice":"0.47460000","askQty":"98492.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151378.00000000","askPrice":"0.47460000","askQty":"89724.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151378.00000000","askPrice":"0.47460000","askQty":"89724.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"150390.00000000","askPrice":"0.47460000","askQty":"77982.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"155445.00000000","askPrice":"0.47460000","askQty":"77982.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"157102.00000000","askPrice":"0.47460000","askQty":"80394.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"157102.00000000","askPrice":"0.47460000","askQty":"80926.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"152732.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"149258.00000000","askPrice":"0.47460000","askQty":"101889.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148837.00000000","askPrice":"0.47460000","askQty":"101889.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148837.00000000","askPrice":"0.47460000","askQty":"101889.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148350.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148364.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154686.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154706.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154706.00000000","askPrice":"0.47460000","askQty":"101436.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154717.00000000","askPrice":"0.47460000","askQty":"117006.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154717.00000000","askPrice":"0.47460000","askQty":"121919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154717.00000000","askPrice":"0.47460000","askQty":"121919.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154731.00000000","askPrice":"0.47460000","askQty":"121814.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154740.00000000","askPrice":"0.47460000","askQty":"121814.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154740.00000000","askPrice":"0.47460000","askQty":"121814.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"154748.00000000","askPrice":"0.47460000","askQty":"116901.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151723.00000000","askPrice":"0.47460000","askQty":"116901.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151728.00000000","askPrice":"0.47460000","askQty":"116901.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"151728.00000000","askPrice":"0.47460000","askQty":"22556.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"146160.00000000","askPrice":"0.47460000","askQty":"49607.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"142790.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"144480.00000000","askPrice":"0.47460000","askQty":"30767.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"142795.00000000","askPrice":"0.47460000","askQty":"30767.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"146462.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148894.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148146.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148170.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"148170.00000000","askPrice":"0.47460000","askQty":"45707.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"146485.00000000","askPrice":"0.47460000","askQty":"45175.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"144548.00000000","askPrice":"0.47460000","askQty":"32240.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"141195.00000000","askPrice":"0.47460000","askQty":"18984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"155195.00000000","askPrice":"0.47460000","askQty":"18984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"155195.00000000","askPrice":"0.47460000","askQty":"18984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"155195.00000000","askPrice":"0.47460000","askQty":"18984.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"183597.00000000","askPrice":"0.47460000","askQty":"4776.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"183874.00000000","askPrice":"0.47460000","askQty":"4776.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47450000","bidQty":"183863.00000000","askPrice":"0.47460000","askQty":"4776.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4746
+ 		net is -0.0238538
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"71059.00000000","askPrice":"0.47470000","askQty":"125977.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"46767.00000000","askPrice":"0.47470000","askQty":"131485.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"47887.00000000","askPrice":"0.47470000","askQty":"131485.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"108663.00000000","askPrice":"0.47470000","askQty":"125977.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"108674.00000000","askPrice":"0.47470000","askQty":"131556.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"88164.00000000","askPrice":"0.47470000","askQty":"131556.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"108674.00000000","askPrice":"0.47470000","askQty":"127943.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"114994.00000000","askPrice":"0.47470000","askQty":"127893.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"114994.00000000","askPrice":"0.47470000","askQty":"133571.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"114994.00000000","askPrice":"0.47470000","askQty":"137309.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"124218.00000000","askPrice":"0.47470000","askQty":"137309.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"124218.00000000","askPrice":"0.47470000","askQty":"137309.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"124218.00000000","askPrice":"0.47470000","askQty":"137309.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"220505.00000000","askPrice":"0.47470000","askQty":"9145.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"225542.00000000","askPrice":"0.47470000","askQty":"9145.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"223857.00000000","askPrice":"0.47470000","askQty":"9145.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"226297.00000000","askPrice":"0.47470000","askQty":"31643.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"226297.00000000","askPrice":"0.47470000","askQty":"32456.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"226297.00000000","askPrice":"0.47470000","askQty":"26985.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"226297.00000000","askPrice":"0.47470000","askQty":"36908.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"226297.00000000","askPrice":"0.47470000","askQty":"26985.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"224285.00000000","askPrice":"0.47470000","askQty":"24064.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"221315.00000000","askPrice":"0.47470000","askQty":"24064.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"217945.00000000","askPrice":"0.47470000","askQty":"16188.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"221567.00000000","askPrice":"0.47470000","askQty":"16188.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"222773.00000000","askPrice":"0.47470000","askQty":"16188.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"221116.00000000","askPrice":"0.47470000","askQty":"16188.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202103.00000000","askPrice":"0.47470000","askQty":"45774.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"201928.00000000","askPrice":"0.47470000","askQty":"45774.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202097.00000000","askPrice":"0.47470000","askQty":"45774.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"195777.00000000","askPrice":"0.47470000","askQty":"45774.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202181.00000000","askPrice":"0.47470000","askQty":"45762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202123.00000000","askPrice":"0.47470000","askQty":"45762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202680.00000000","askPrice":"0.47470000","askQty":"45762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"201988.00000000","askPrice":"0.47470000","askQty":"59762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"201989.00000000","askPrice":"0.47470000","askQty":"59762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202913.00000000","askPrice":"0.47470000","askQty":"59762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202913.00000000","askPrice":"0.47470000","askQty":"59762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
+dumping  {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"10","baseQty":"21.0359212","price":"0.47466426","slippage":"0","fee":"0.015"}
+
+dumping  {"symbol":"XRPUSDT","bidPrice":"0.47460000","bidQty":"202913.00000000","askPrice":"0.47470000","askQty":"45762.00000000"}
+
+		real fee 0.015
+		buy USDT at swap price 0.474664 and sell at spot price 0.4747
+ 		net is -0.021747
+
