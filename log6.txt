@@ -2,2166 +2,1150 @@
 
 		version 1.3 min 0.18 only 7 orders
 
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 2 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 3 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 4 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 5 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 6 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-
-all succss
-		Path is USDT-TLM-BTC
- 		net is 0.370056
-
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 7 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 8 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 9 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 10 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 11 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 12 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 13 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 14 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 15 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
-graph is USDT-GMT-BUSD
-graph is USDT-GMT-BTC
-graph is USDT-GMT-BNB
-graph is USDT-GMT-ETH
-graph is USDT-APE-BTC
-graph is USDT-UNI-BUSD
-graph is USDT-UNI-BTC
-graph is USDT-UNI-BNB
-graph is USDT-SUSHI-BUSD
-graph is USDT-SUSHI-BTC
-graph is USDT-SUSHI-BNB
-graph is USDT-MULTI-BTC
-graph is USDT-ANT-BNB
-graph is USDT-HARD-BNB
-graph is USDT-IDEX-BNB
-graph is USDT-ELF-BTC
-graph is USDT-BSW-BNB
-graph is USDT-ETC-BUSD
-graph is USDT-ETC-BTC
-graph is USDT-FTM-BUSD
-graph is USDT-FTM-BTC
-graph is USDT-FTM-BNB
-graph is USDT-LDO-BTC
-graph is USDT-KDA-BTC
-graph is USDT-XMR-ETH
-graph is USDT-MAGIC-BTC
-graph is USDT-STG-BTC
-graph is USDT-GMX-BTC
-graph is USDT-ARB-BTC
-graph is USDT-ID-BTC
-graph is USDT-SUI-BTC
-
-
-		 round----- 16 ------
-graph is USDT-BTC-TUSD
-graph is USDT-BTC-USDC
-graph is USDT-BTC-BUSD
-graph is USDT-BTC-ETH
-graph is USDT-BNB-USDC
-graph is USDT-BNB-BUSD
-graph is USDT-BNB-ETH
-graph is USDT-ETH-USDC
-graph is USDT-ETH-BUSD
-graph is USDT-ETH-DAI
-graph is USDT-HOOK-BUSD
-graph is USDT-HOOK-BTC
-graph is USDT-APT-BUSD
-graph is USDT-APT-BTC
-graph is USDT-EDU-BTC
-graph is USDT-RDNT-BTC
-graph is USDT-OP-BUSD
-graph is USDT-OP-BTC
-graph is USDT-HFT-BTC
-graph is USDT-MATIC-BUSD
-graph is USDT-MATIC-BTC
-graph is USDT-MATIC-BNB
-graph is USDT-DOGE-BUSD
-graph is USDT-DOGE-BTC
-graph is USDT-LINK-BUSD
-graph is USDT-LINK-BTC
-graph is USDT-LINK-ETH
-graph is USDT-MANA-BUSD
-graph is USDT-MANA-BTC
-graph is USDT-WOO-BNB
-graph is USDT-THETA-BTC
-graph is USDT-THETA-BNB
-graph is USDT-THETA-ETH
-graph is USDT-CHZ-BTC
-graph is USDT-CHZ-BNB
-graph is USDT-VET-BTC
-graph is USDT-VET-BNB
-graph is USDT-VET-ETH
-graph is USDT-AAVE-BTC
-graph is USDT-AAVE-BNB
-graph is USDT-AAVE-ETH
-graph is USDT-ADA-BUSD
-graph is USDT-ADA-BTC
-graph is USDT-ADA-BNB
-graph is USDT-ADA-ETH
-graph is USDT-FIL-BUSD
-graph is USDT-FIL-BTC
-graph is USDT-FIL-BNB
-graph is USDT-BCH-BTC
-graph is USDT-BCH-BNB
-graph is USDT-LTC-BUSD
-graph is USDT-LTC-BTC
-graph is USDT-LTC-BNB
-graph is USDT-XRP-BUSD
-graph is USDT-XRP-BTC
-graph is USDT-XRP-BNB
-graph is USDT-XRP-ETH
-graph is USDT-NEO-BTC
-graph is USDT-NEO-BNB
-graph is USDT-NEO-ETH
-graph is USDT-AVA-BTC
-graph is USDT-XVS-BTC
-graph is USDT-SOL-BUSD
-graph is USDT-SOL-BTC
-graph is USDT-SOL-BNB
-graph is USDT-TRX-BTC
-graph is USDT-TRX-BNB
-graph is USDT-TRX-ETH
-graph is USDT-BAKE-BTC
-graph is USDT-BAKE-BNB
-graph is USDT-CAKE-BTC
-graph is USDT-CAKE-BNB
-graph is USDT-SXP-BTC
-graph is USDT-SXP-BNB
-graph is USDT-DYDX-BTC
-graph is USDT-KSM-BTC
-graph is USDT-AVAX-BUSD
-graph is USDT-AVAX-BNB
-graph is USDT-NEAR-BUSD
-graph is USDT-NEAR-BTC
-graph is USDT-ICP-BNB
-graph is USDT-TLM-BTC
-graph is USDT-ALICE-BTC
-graph is USDT-SANTOS-BTC
-graph is USDT-DAR-BNB
-graph is USDT-ALGO-BNB
-graph is USDT-RUNE-BNB
-graph is USDT-LOKA-BNB
-graph is USDT-MBOX-BNB
-graph is USDT-ILV-BTC
-graph is USDT-SAND-BUSD
-graph is USDT-SAND-BTC
-graph is USDT-SAND-BNB
-graph is USDT-AXS-BTC
-graph is USDT-AXS-BNB
-graph is USDT-DOT-BUSD
-graph is USDT-DOT-BTC
-graph is USDT-DOT-BNB
-graph is USDT-GALA-BNB
-graph is USDT-ALPINE-BTC
-graph is USDT-ATA-BTC
-graph is USDT-ATOM-BUSD
-graph is USDT-ATOM-BTC
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
+binance throuwn forbidden error....exiting
