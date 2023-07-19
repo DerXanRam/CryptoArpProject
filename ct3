@@ -1,0 +1,172 @@
+round 1 iteration 0 {"quoteAsset":"DAI","baseAsset":"USDT","quoteQty":"50.000721","baseQty":"49.92277831","price":"1.00005892","slippage":"0.00006","fee":"0.07500109"}
+
+round 1 iteration 1 {"quoteAsset":"TUSD","baseAsset":"USDT","quoteQty":"50.023027","baseQty":"49.9250747","price":"1.00045904","slippage":"0.00001","fee":"0.07503455"}
+
+round 1 iteration 2 {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.996","baseQty":"49.92495233","price":"0.99992096","slippage":"0.00001","fee":"0.074994"}
+
+round 1 iteration 3 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 4 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.73944902","price":"0.00053005","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 5 {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.996","baseQty":"49.92495233","price":"0.99992096","slippage":"0.00001","fee":"0.074994"}
+
+round 1 iteration 6 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 7 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.20126869","price":"0.00003349","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 8 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.73944902","price":"0.00053005","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 9 {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.996","baseQty":"49.92495233","price":"0.99992096","slippage":"0.00001","fee":"0.074994"}
+
+round 1 iteration 10 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 11 {"quoteAsset":"DAI","baseAsset":"USDT","quoteQty":"50.000721","baseQty":"49.92277831","price":"1.00005892","slippage":"0.00006","fee":"0.07500109"}
+
+round 1 iteration 12 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 13 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.20926123","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 14 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 15 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.21154844","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 16 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.21154844","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 17 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.21154844","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 18 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 19 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.21154844","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 20 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.2147027","price":"0.00003348","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 21 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 22 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.22248243","price":"0.00003347","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 23 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.39987118","price":"0.00412532","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 24 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 25 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.2409869","price":"0.00003346","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 26 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 27 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.25002651","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 28 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.75648009","price":"0.00052986","slippage":"0.00004","fee":"0.00003881"}
+
+round 1 iteration 29 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 30 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26700256","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 31 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 32 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26847422","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 33 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 34 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.76856445","price":"0.00052973","slippage":"0.00004","fee":"0.00003881"}
+
+round 1 iteration 35 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26847422","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 36 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 37 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26847422","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 38 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 39 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.75588177","price":"0.00052987","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 40 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.25760514","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 41 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 42 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.75124282","price":"0.00052992","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 43 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 44 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.25173899","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 45 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 46 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.74593101","price":"0.00052998","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 47 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 48 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.25005228","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 49 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 50 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.25005228","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 51 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 52 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 53 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26036848","price":"0.00003345","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 54 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 55 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 56 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 57 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.42648091","price":"0.00412306","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 58 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.73964807","price":"0.00053004","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 59 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 60 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45311673","price":"0.00412079","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 61 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.73964807","price":"0.00053004","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 62 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 63 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 64 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 65 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 66 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 67 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 68 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 69 {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.025873","baseQty":"48.73964807","price":"0.00053004","slippage":"0.00002","fee":"0.00003881"}
+
+round 1 iteration 70 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 71 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 72 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 73 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 74 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26205625","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 75 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 76 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26143339","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 77 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26143339","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 78 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 79 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 80 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.993999","baseQty":"49.92477858","price":"0.99988441","slippage":"0.00001","fee":"0.074991"}
+
+round 1 iteration 81 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26143339","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 82 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.199965","baseQty":"48.45854971","price":"0.00412033","slippage":"0.00005","fee":"0.00029995"}
+
+round 1 iteration 83 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.26143339","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 83 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.268304","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
+round 1 iteration 83 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00165","baseQty":"49.2751832","price":"0.00003344","slippage":"0","fee":"0.00000248"}
+
