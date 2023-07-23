@@ -1,0 +1,11 @@
+		started
+    PID TTY          TIME CMD
+1788638 pts/0    00:11:24 spot
+    PID TTY          TIME CMD
+1788638 pts/0    00:15:48 spot
+    PID TTY          TIME CMD
+1788638 pts/0    00:52:00 spot
+    PID TTY          TIME CMD
+1788638 pts/0    02:26:50 spot
+    PID TTY          TIME CMD
+1788638 pts/0    03:11:14 spot
