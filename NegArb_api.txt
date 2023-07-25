@@ -1,0 +1,199 @@
+dumping round 71 iter 34 {"quoteAsset":"USDT","baseAsset":"VET","quoteQty":"50","baseQty":"2677.77165257","price":"0.01864423","slippage":"0.00011","fee":"0.075"}
+
+dumping round 71 iter 34 {"quoteAsset":"VET","baseAsset":"BTC","quoteQty":"2677.77165257","baseQty":"0.00171763","price":"1562500","slippage":"0.00021","fee":"4.01665748"}
+
+dumping round 71 iter 34 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171763","baseQty":"49.95404492","price":"0.00003433","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"57.71551631","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.0019819"}]
+
+dumping round 1 iter 1 {"swapId":554731672}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 58 iter 76 {"quoteAsset":"USDT","baseAsset":"AVAX","quoteQty":"50","baseQty":"3.77726356","price":"13.21724015","slippage":"0.00025","fee":"0.075"}
+
+dumping round 58 iter 76 {"quoteAsset":"AVAX","baseAsset":"BNB","quoteQty":"3.77726356","baseQty":"0.20924356","price":"18.0249162","slippage":"0.00059","fee":"0.0056659"}
+
+dumping round 58 iter 76 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.20924356","baseQty":"49.97569964","price":"0.00418063","slippage":"0.00005","fee":"0.00031387"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"57.54919832","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197512"}]
+
+dumping round 1 iter 1 {"swapId":554818858}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"AVAX","free":"4.34736517","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.0019711"}]
+
+dumping round 1 iter 1 {"swapId":554818959}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"BNB","free":"0.24079812","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197719"}]
+
+dumping round 1 iter 1 {"swapId":554818978}
+
+dumping round 102 iter 32 {"quoteAsset":"USDT","baseAsset":"CHZ","quoteQty":"50","baseQty":"652.53304935","price":"0.07650953","slippage":"0.00021","fee":"0.075"}
+
+dumping round 102 iter 32 {"quoteAsset":"CHZ","baseAsset":"BTC","quoteQty":"652.53304935","baseQty":"0.00171729","price":"378787.87878788","slippage":"0.00023","fee":"0.97879958"}
+
+dumping round 102 iter 32 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171729","baseQty":"49.91413654","price":"0.00003435","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"57.42699824","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197239"}]
+
+dumping round 1 iter 1 {"swapId":554828424}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"CHZ","free":"749.43152238","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.001971"}]
+
+dumping round 1 iter 1 {"swapId":554828429}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"BTC","free":"0.00197222","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197222"}]
+
+dumping round 1 iter 1 {"swapId":554828460}
+
+dumping round 211 iter 16 {"quoteAsset":"USDT","baseAsset":"OP","quoteQty":"50","baseQty":"33.84643012","price":"1.47504478","slippage":"0.00027","fee":"0.075"}
+
+dumping round 211 iter 16 {"quoteAsset":"OP","baseAsset":"BTC","quoteQty":"33.84643012","baseQty":"0.00170959","price":"19766.75232259","slippage":"0.00032","fee":"0.05076965"}
+
+dumping round 211 iter 16 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170959","baseQty":"49.7371939","price":"0.00003432","slippage":"0","fee":"0.00000257"}
+
+not profitable
+dumping round 211 iter 71 {"quoteAsset":"USDT","baseAsset":"SXP","quoteQty":"50","baseQty":"148.49724584","price":"0.33620152","slippage":"0.00036","fee":"0.075"}
+
+dumping round 211 iter 71 {"quoteAsset":"SXP","baseAsset":"BTC","quoteQty":"148.49724584","baseQty":"0.00171555","price":"86430.42350908","slippage":"0.00064","fee":"0.22274587"}
+
+dumping round 211 iter 71 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171555","baseQty":"49.91058488","price":"0.00003432","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"52.52959158","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00180341"}]
+
+dumping round 1 iter 1 {"swapId":554860121}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"SXP","free":"156.00653462","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00180032"}]
+
+dumping round 1 iter 1 {"swapId":554860137}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"BTC","free":"0.00180223","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00180223"}]
+
+dumping round 1 iter 1 {"swapId":554860149}
+
+dumping round 261 iter 14 {"quoteAsset":"USDT","baseAsset":"RDNT","quoteQty":"50","baseQty":"167.32236557","price":"0.29837613","slippage":"0.00017","fee":"0.075"}
+
+dumping round 261 iter 14 {"quoteAsset":"RDNT","baseAsset":"BTC","quoteQty":"167.32236557","baseQty":"0.00171616","price":"97370.98344693","slippage":"0.00016","fee":"0.25098355"}
+
+dumping round 261 iter 14 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171616","baseQty":"49.92003578","price":"0.00003433","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"RDNT","free":"175.52541139","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00179914"},{"asset":"XMR","free":"0.02653439","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00014735"}]
+
+dumping round 1 iter 1 {"code":-12010,"msg":"user asset freeze failed, please check whether your balance is enough"}
+

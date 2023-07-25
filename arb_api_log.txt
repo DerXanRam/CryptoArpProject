@@ -1,0 +1,16 @@
+dumping round 260 iter 14 {"quoteAsset":"USDT","baseAsset":"RDNT","quoteQty":"50","baseQty":"167.38452737","price":"0.29826532","slippage":"0.00017","fee":"0.075"}
+
+dumping round 260 iter 14 {"quoteAsset":"RDNT","baseAsset":"BTC","quoteQty":"167.38452737","baseQty":"0.00172079","price":"97087.37864078","slippage":"0.00016","fee":"0.2510768"}
+
+dumping round 260 iter 14 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00172079","baseQty":"50.0547114","price":"0.00003433","slippage":"0","fee":"0.00000259"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"52.43231527","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00179921"}]
+
+dumping round 1 iter 1 {"swapId":554880679}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"XMR","free":"0.02653439","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00014735"}]
+
+dumping round 1 iter 1 {"code":-12001,"msg":"Below the minimum transaction quantity."}
+
