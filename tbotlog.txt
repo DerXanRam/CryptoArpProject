@@ -1,0 +1,22 @@
+		started
+    PID TTY          TIME CMD
+3031592 pts/0    00:00:04 spot
+    PID TTY          TIME CMD
+3031592 pts/0    00:00:12 spot
+    PID TTY          TIME CMD
+3031592 ?        00:01:41 spot
+    PID TTY          TIME CMD
+3031592 ?        00:10:58 spot
+    PID TTY          TIME CMD
+3031592 ?        00:40:46 spot
+    PID TTY          TIME CMD
+3031592 ?        01:00:34 spot
+    PID TTY          TIME CMD
+3031592 ?        02:16:19 spot
+    PID TTY          TIME CMD
+3031592 ?        02:43:56 spot
+    PID TTY          TIME CMD
+3031592 ?        02:57:06 spot
+    PID TTY          TIME CMD
+3031592 ?        10:31:46 spot
+    PID TTY          TIME CMD
