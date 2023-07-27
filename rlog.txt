@@ -1,0 +1,22 @@
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00010781"},"details":{"BUSD/USDT":{"BNB":"0.00010781"}}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00010781"},"details":{"BUSD/USDT":{"BNB":"0.00010781"}}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00010781"},"details":{"BUSD/USDT":{"BNB":"0.00010781"}}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00075871"},"details":{"BTC/USDT":{"BNB":"0.00022002"},"TLM/USDT":{"BNB":"0.00021645"},"TLM/BTC":{"BNB":"0.00021443"},"BUSD/USDT":{"BNB":"0.00010781"}}}
+
+dumping round 1 iter 1 {"success":true}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{},"details":{}}
+

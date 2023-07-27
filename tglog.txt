@@ -1,0 +1,17 @@
+		started
+    PID TTY          TIME CMD
+3654507 ?        05:13:41 spot
+    PID TTY          TIME CMD
+3654507 ?        05:37:14 spot
+terminate called after throwing an instance of 'nlohmann::detail::type_error'
+  what():  [json.exception.type_error.302] type must be string, but is null
+Aborted (core dumped)
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+3814046 pts/0    00:00:04 spot
+    PID TTY          TIME CMD
+3814046 pts/0    00:12:10 spot
+reachedreachedparse error
+[json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+curl_easy_perform() failed: SSL connect error
+curl_easy_perform() failed: SSL connect error
