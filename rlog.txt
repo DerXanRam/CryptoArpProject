@@ -1,0 +1,8 @@
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00098493"},"details":{"VET/USDT":{"BNB":"0.00010928"},"BTC/USDT":{"BNB":"0.00032833"},"TLM/USDT":{"BNB":"0.00021839"},"TLM/BTC":{"BNB":"0.00021989"},"VET/BTC":{"BNB":"0.00010904"}}}
+
+dumping round 1 iter 1 {"success":true}
+
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00163638"},"details":{"VET/USDT":{"BNB":"0.00021756"},"SHIB/BUSD":{"BNB":"0.0001089"},"SHIB/USDT":{"BNB":"0.00010877"},"BTC/USDT":{"BNB":"0.00043645"},"TLM/USDT":{"BNB":"0.00021819"},"TLM/BTC":{"BNB":"0.00022008"},"VET/BTC":{"BNB":"0.00021767"},"BUSD/USDT":{"BNB":"0.00010876"}}}
+
+dumping round 1 iter 1 {"success":true}
+

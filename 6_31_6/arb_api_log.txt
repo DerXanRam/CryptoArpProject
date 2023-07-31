@@ -1,0 +1,67 @@
+dumping round 245 iter 34 {"quoteAsset":"USDT","baseAsset":"VET","quoteQty":"50","baseQty":"2653.20736014","price":"0.01881685","slippage":"0.00011","fee":"0.075"}
+
+dumping round 245 iter 34 {"quoteAsset":"VET","baseAsset":"BTC","quoteQty":"2653.20736014","baseQty":"0.00170493","price":"1562500","slippage":"0.00021","fee":"3.97981105"}
+
+dumping round 245 iter 34 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170493","baseQty":"50.02662876","price":"0.00003403","slippage":"0","fee":"0.00000256"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"58.6378471","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00199592"}]
+
+dumping round 1 iter 1 {"swapId":556596420}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"VET","free":"3111.49411895","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00202247"}]
+
+dumping round 1 iter 1 {"swapId":556596428}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 [{"asset":"BTC","free":"0.00199934","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00199934"}]
+
+dumping round 1 iter 1 {"swapId":556596438}
+
+---------profitable------------
+dumping round 245 iter 34 {"quoteAsset":"USDT","baseAsset":"VET","quoteQty":"50","baseQty":"2651.33414885","price":"0.01883014","slippage":"0.00011","fee":"0.075"}
+
+dumping round 245 iter 34 {"quoteAsset":"VET","baseAsset":"BTC","quoteQty":"2651.33414885","baseQty":"0.0017027","price":"1562500","slippage":"0.00021","fee":"3.97700123"}
+
+dumping round 245 iter 34 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.0017027","baseQty":"49.9587215","price":"0.00003403","slippage":"0","fee":"0.00000256"}
+
