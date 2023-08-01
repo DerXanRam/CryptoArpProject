@@ -1,15 +1,2 @@
 		started
 here
-    PID TTY          TIME CMD
-here
-here
-here
-here
-here
-here
-here
-    PID TTY          TIME CMD
-  24819 ?        00:07:04 spot
-here
-here
-here

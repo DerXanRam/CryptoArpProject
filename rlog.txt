@@ -6,3 +6,7 @@ dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00163638"},"details":{
 
 dumping round 1 iter 1 {"success":true}
 
+dumping round 1 iter 1 {"totalUnclaimedRewards":{"BNB":"0.00065172"},"details":{"CAKE/USDT":{"BNB":"0.00010896"},"BAKE/USDT":{"BNB":"0.00010906"},"BNB/USDT":{"BNB":"0.00010851"},"BTC/USDT":{"BNB":"0.00010926"},"BAKE/BTC":{"BNB":"0.00010932"},"CAKE/BNB":{"BNB":"0.00010661"}}}
+
+dumping round 1 iter 1 {"success":true}
+

@@ -92,3 +92,11 @@ dumping round 35 iter 70 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.20
 
 		---------not profitable------------
 ---------passed for NegArb------------
+dumping round 193 iter 52 {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"50","baseQty":"72.41793782","price":"0.68940102","slippage":"0.00004","fee":"0.075"}
+
+dumping round 193 iter 52 {"quoteAsset":"XRP","baseAsset":"BUSD","quoteQty":"72.41793782","baseQty":"49.95688757","price":"1.44743427","slippage":"0.00024","fee":"0.10862691"}
+
+dumping round 193 iter 52 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.95688757","baseQty":"49.88723987","price":"0.99989401","slippage":"0","fee":"0.07493534"}
+
+		---------not profitable------------
+---------passed for NegArb------------

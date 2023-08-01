@@ -285,3 +285,71 @@ dumping round 22 iter 96 {"quoteAsset":"DOT","baseAsset":"BNB","quoteQty":"9.716
 dumping round 22 iter 96 {"quoteAsset":"BNB","baseAsset":"USDT","quoteQty":"0.20546012","baseQty":"49.69905748","price":"0.00412788","slippage":"0.00005","fee":"0.0003082"}
 
 not profitable
+dumping round 198 iter 88 {"quoteAsset":"USDT","baseAsset":"ILV","quoteQty":"50","baseQty":"1.23926226","price":"40.28606328","slippage":"0.00117","fee":"0.075"}
+
+dumping round 198 iter 88 {"quoteAsset":"ILV","baseAsset":"BTC","quoteQty":"1.23926226","baseQty":"0.00171547","price":"721.31857035","slippage":"0.00224","fee":"0.0018589"}
+
+dumping round 198 iter 88 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171547","baseQty":"49.94092495","price":"0.0000343","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 [{"asset":"USDT","free":"58.76581284","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00201307"}]
+
+dumping round 1 iter 1 {"swapId":557128050}
+
+dumping round 1 iter 1 [{"asset":"ILV","free":"1.45518083","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00201543"}]
+
+dumping round 1 iter 1 {"swapId":557128515}
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
+dumping round 1 iter 1 []
+
