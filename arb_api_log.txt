@@ -100,3 +100,9 @@ dumping round 193 iter 52 {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49
 
 		---------not profitable------------
 ---------passed for NegArb------------
+dumping round 143 iter 125 {"quoteAsset":"USDT","baseAsset":"KDA","quoteQty":"50","baseQty":"92.08834747","price":"0.54214242","slippage":"0.00059","fee":"0.075"}
+
+dumping round 143 iter 125 {"quoteAsset":"KDA","baseAsset":"BTC","quoteQty":"92.08834747","baseQty":"0.00168832","price":"54466.23093682","slippage":"0.0008","fee":"0.13813253"}
+
+dumping round 143 iter 125 {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00168832","baseQty":"49.99094537","price":"0.00003372","slippage":"0","fee":"0.00000254"}
+
