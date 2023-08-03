@@ -1,0 +1,6 @@
+dumping round collect 1 iter 1 Thu Aug  3 09:22:04 2023
+ {"totalUnclaimedRewards":{"BNB":"0.00184267"},"details":{"ELF/USDT":{"BNB":"0.00010863"},"BAKE/USDT":{"BNB":"0.00043357"},"BTC/USDT":{"BNB":"0.00054277"},"XVS/USDT":{"BNB":"0.00021588"},"XVS/BTC":{"BNB":"0.00021636"},"BAKE/BTC":{"BNB":"0.00021735"},"ELF/BTC":{"BNB":"0.00010811"}}}
+
+dumping round by swapp 0 iter 0 Thu Aug  3 09:22:05 2023
+ {"success":true}
+

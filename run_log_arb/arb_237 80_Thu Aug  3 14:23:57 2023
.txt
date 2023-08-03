@@ -1,0 +1,123 @@
+dumping round 237 iter 80 Thu Aug  3 14:23:57 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4742.84275228","price":"0.01052639","slippage":"0.00066","fee":"0.075"}
+
+dumping round 237 iter 80 Thu Aug  3 14:23:57 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4742.84275228","baseQty":"0.00172972","price":"2702702.7027027","slippage":"0.00117","fee":"7.11426413"}
+
+dumping round 237 iter 80 Thu Aug  3 14:23:57 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00172972","baseQty":"50.42598172","price":"0.00003425","slippage":"0.0003","fee":"0.0000026"}
+
+dumping round 1 iter 1 Thu Aug  3 14:23:57 2023
+ [{"asset":"USDT","free":"61.35378808","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00210116"}]
+
+dumping round 1 iter 1 Thu Aug  3 14:23:58 2023
+ {"swapId":558128615}
+
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+0empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+1empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+2empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+3empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+4empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+5empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+6empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+7empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+8empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+9empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+10empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+11empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+12empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+13empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+14empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+15empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+16empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+17empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:00 2023
+ []
+
+18empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+19empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+20empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+21empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+22empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+23empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+24empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+25empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 14:24:01 2023
+ []
+
+swap on pending for 19 repeated try. Cannot continue.....exiting

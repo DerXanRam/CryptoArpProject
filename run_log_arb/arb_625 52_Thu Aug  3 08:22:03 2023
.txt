@@ -1,0 +1,10 @@
+dumping round 625 iter 52 Thu Aug  3 08:22:03 2023
+ {"quoteAsset":"USDT","baseAsset":"XRP","quoteQty":"50","baseQty":"75.84686763","price":"0.65823417","slippage":"0.00005","fee":"0.075"}
+
+dumping round 625 iter 52 Thu Aug  3 08:22:04 2023
+ {"quoteAsset":"XRP","baseAsset":"BUSD","quoteQty":"75.84686763","baseQty":"49.99045746","price":"1.51495108","slippage":"0.00028","fee":"0.11377031"}
+
+dumping round 625 iter 52 Thu Aug  3 08:22:04 2023
+ {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.99045746","baseQty":"49.9206934","price":"0.9998954","slippage":"0.00001","fee":"0.07498569"}
+
+		---------not profitable------------

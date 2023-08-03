@@ -1,0 +1,94 @@
+		started
+here
+here
+    PID TTY          TIME CMD
+ 932412 ?        00:04:51 spot
+here
+    PID TTY          TIME CMD
+ 932412 ?        00:04:56 spot
+here
+here
+here
+here
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:00:23 spot
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:00:31 spot
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:03:01 spot
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:03:05 spot
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:11:27 spot
+here
+here
+here
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:27:56 spot
+here
+cp: cannot stat 'emergency.message': No such file or directory
+here
+    PID TTY          TIME CMD
+ 936650 ?        00:44:44 spot
+here
+here
+here
+here
+    PID TTY          TIME CMD
+ 936650 ?        01:27:44 spot
+here
+    PID TTY          TIME CMD
+ 936650 ?        01:30:39 spot
+here
+cp: cannot stat 'emergency.message': No such file or directory
+here
+    PID TTY          TIME CMD
+ 936650 ?        01:44:19 spot
+here
+mkdir: cannot create directory ‘7_2_19’: File exists
+cp: cannot stat 'emergency.message': No such file or directory
+here
+    PID TTY          TIME CMD
+here
+here
+    PID TTY          TIME CMD
+1006074 ?        00:00:02 spot
+here
+    PID TTY          TIME CMD
+1006074 ?        00:01:55 spot
+here
+here
+here
+here
+cp: cannot stat 'emergency.message': No such file or directory
+curl_easy_perform() failed: SSL connect error
+here
+here
+    PID TTY          TIME CMD
+1006074 ?        05:21:30 spot
+here
+here
+    PID TTY          TIME CMD
+1006074 ?        05:23:16 spot
+here
+here
+    PID TTY          TIME CMD
+1006074 ?        06:07:43 spot
+here
+here
+here
+here
+here
+here
+here

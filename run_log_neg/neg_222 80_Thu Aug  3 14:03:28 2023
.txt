@@ -1,0 +1,50 @@
+dumping round 222 iter 80 Thu Aug  3 14:03:29 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4733.7436907","price":"0.01054662","slippage":"0.00066","fee":"0.075"}
+
+dumping round 222 iter 80 Thu Aug  3 14:03:29 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4733.7436907","baseQty":"0.00171413","price":"2777777.77777778","slippage":"0.00116","fee":"7.10061554"}
+
+dumping round 222 iter 80 Thu Aug  3 14:03:29 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171413","baseQty":"49.9906734","price":"0.00003424","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 Thu Aug  3 14:03:29 2023
+ [{"asset":"USDT","free":"61.39700211","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00210174"}]
+
+dumping round 1 iter 1 Thu Aug  3 14:03:29 2023
+ {"swapId":558124780}
+
+dumping round 1 iter 1 Thu Aug  3 14:03:32 2023
+ [{"asset":"TLM","free":"5811.67327049","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.0020922"}]
+
+dumping round 1 iter 1 Thu Aug  3 14:03:32 2023
+ {"swapId":558124793}
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ [{"asset":"BTC","free":"0.00210377","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00210377"}]
+
+dumping round 1 iter 1 Thu Aug  3 14:03:35 2023
+ {"swapId":558124797}
+
+-----profitable----------
+dumping round 222 iter 80 Thu Aug  3 14:03:35 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4732.58900404","price":"0.01054919","slippage":"0.00066","fee":"0.075"}
+
+dumping round 222 iter 80 Thu Aug  3 14:03:36 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4732.58900404","baseQty":"0.00170763","price":"2777777.77777778","slippage":"0.00116","fee":"7.09888351"}
+
+dumping round 222 iter 80 Thu Aug  3 14:03:36 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170763","baseQty":"49.79850333","price":"0.00003424","slippage":"0","fee":"0.00000257"}
+
+not profitable

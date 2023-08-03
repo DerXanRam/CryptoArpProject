@@ -1,0 +1,23 @@
+dumping round 186 iter 80 Thu Aug  3 13:14:00 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4758.06907824","price":"0.0104927","slippage":"0.00066","fee":"0.075"}
+
+dumping round 186 iter 80 Thu Aug  3 13:14:00 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4758.06907824","baseQty":"0.00172062","price":"2777777.77777778","slippage":"0.00117","fee":"7.13710362"}
+
+dumping round 186 iter 80 Thu Aug  3 13:14:01 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00172062","baseQty":"50.08411642","price":"0.0000343","slippage":"0","fee":"0.00000259"}
+
+dumping round 1 iter 1 Thu Aug  3 13:14:01 2023
+ []
+
+0empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Thu Aug  3 13:14:01 2023
+ [{"asset":"TLM","free":"5736.0568787","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00206498"}]
+
+dumping round 1 iter 1 Thu Aug  3 13:14:01 2023
+ {"code":-12000,"msg":"Exceeding the maximum transaction quantity."}
+
+general error
+dumping round 1 iter 1 Thu Aug  3 13:14:02 2023
+ {"code":-1102,"msg":"Mandatory parameter 'baseAsset|quoteQty|quoteAsset' was not sent, was empty/null, or malformed."}
+

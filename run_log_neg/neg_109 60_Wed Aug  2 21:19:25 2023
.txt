@@ -1,0 +1,95 @@
+dumping round 109 iter 60 Wed Aug  2 21:19:25 2023
+ {"quoteAsset":"USDT","baseAsset":"XVS","quoteQty":"50","baseQty":"11.54011814","price":"4.32621214","slippage":"0.00036","fee":"0.075"}
+
+dumping round 109 iter 60 Wed Aug  2 21:19:25 2023
+ {"quoteAsset":"XVS","baseAsset":"BTC","quoteQty":"11.54011814","baseQty":"0.00172048","price":"6697.47505191","slippage":"0.00037","fee":"0.01731018"}
+
+dumping round 109 iter 60 Wed Aug  2 21:19:26 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00172048","baseQty":"49.95346167","price":"0.00003439","slippage":"0","fee":"0.00000259"}
+
+dumping round 1 iter 1 Wed Aug  2 21:19:26 2023
+ [{"asset":"USDT","free":"57.43213846","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197529"}]
+
+dumping round 1 iter 1 Wed Aug  2 21:19:26 2023
+ {"swapId":557924182}
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ [{"asset":"XVS","free":"13.25460531","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197891"}]
+
+dumping round 1 iter 1 Wed Aug  2 21:19:29 2023
+ {"swapId":557924191}
+
+dumping round 1 iter 1 Wed Aug  2 21:19:31 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:31 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:31 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:31 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:31 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ []
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ [{"asset":"BTC","free":"0.00197596","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00197596"}]
+
+dumping round 1 iter 1 Wed Aug  2 21:19:32 2023
+ {"swapId":557924202}
+
+-----profitable----------
+dumping round 109 iter 60 Wed Aug  2 21:19:32 2023
+ {"quoteAsset":"USDT","baseAsset":"XVS","quoteQty":"50","baseQty":"11.52844536","price":"4.33059259","slippage":"0.00036","fee":"0.075"}
+
+dumping round 109 iter 60 Wed Aug  2 21:19:32 2023
+ {"quoteAsset":"XVS","baseAsset":"BTC","quoteQty":"11.52844536","baseQty":"0.00171695","price":"6704.21024403","slippage":"0.00037","fee":"0.01729267"}
+
+dumping round 109 iter 60 Wed Aug  2 21:19:33 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171695","baseQty":"49.84852273","price":"0.00003439","slippage":"0","fee":"0.00000258"}
+
+not profitable

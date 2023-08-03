@@ -1,0 +1,10 @@
+dumping round 298 iter 22 Thu Aug  3 15:45:20 2023
+ {"quoteAsset":"USDT","baseAsset":"DOGE","quoteQty":"50","baseQty":"672.31254511","price":"0.07425862","slippage":"0.00004","fee":"0.075"}
+
+dumping round 298 iter 22 Thu Aug  3 15:45:20 2023
+ {"quoteAsset":"DOGE","baseAsset":"BTC","quoteQty":"672.31254511","baseQty":"0.00170514","price":"393700.78740157","slippage":"0.00004","fee":"1.00846882"}
+
+dumping round 298 iter 22 Thu Aug  3 15:45:20 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170514","baseQty":"49.88941888","price":"0.00003413","slippage":"0","fee":"0.00000256"}
+
+		---------not profitable------------

@@ -1,0 +1,59 @@
+dumping round 143 iter 99 Thu Aug  3 12:16:31 2023
+ {"quoteAsset":"USDT","baseAsset":"ATA","quoteQty":"50","baseQty":"625.92873508","price":"0.07976148","slippage":"0.00146","fee":"0.075"}
+
+dumping round 143 iter 99 Thu Aug  3 12:16:31 2023
+ {"quoteAsset":"ATA","baseAsset":"BTC","quoteQty":"625.92873508","baseQty":"0.00171633","price":"363636.36363636","slippage":"0.00226","fee":"0.93889311"}
+
+dumping round 143 iter 99 Thu Aug  3 12:16:32 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171633","baseQty":"49.95678747","price":"0.0000343","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 Thu Aug  3 12:16:32 2023
+ [{"asset":"USDT","free":"58.00314369","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00198981"}]
+
+dumping round 1 iter 1 Thu Aug  3 12:16:32 2023
+ {"swapId":558098973}
+
+dumping round 1 iter 1 Thu Aug  3 12:16:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:35 2023
+ [{"asset":"ATA","free":"725.9051836","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00198898"}]
+
+dumping round 1 iter 1 Thu Aug  3 12:16:35 2023
+ {"swapId":558098999}
+
+dumping round 1 iter 1 Thu Aug  3 12:16:37 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ [{"asset":"BTC","free":"0.00198958","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00198958"}]
+
+dumping round 1 iter 1 Thu Aug  3 12:16:38 2023
+ {"swapId":558099024}
+
+-----profitable----------
+dumping round 143 iter 99 Thu Aug  3 12:16:38 2023
+ {"quoteAsset":"USDT","baseAsset":"ATA","quoteQty":"50","baseQty":"625.07561484","price":"0.07987034","slippage":"0.00146","fee":"0.075"}
+
+dumping round 143 iter 99 Thu Aug  3 12:16:38 2023
+ {"quoteAsset":"ATA","baseAsset":"BTC","quoteQty":"625.07561484","baseQty":"0.00170286","price":"366300.36630037","slippage":"0.00225","fee":"0.93761343"}
+
+dumping round 143 iter 99 Thu Aug  3 12:16:39 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170286","baseQty":"49.56227488","price":"0.00003431","slippage":"0","fee":"0.00000256"}
+
+not profitable
