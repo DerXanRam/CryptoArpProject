@@ -1,0 +1,26 @@
+		started
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+1501375 ?        00:23:49 spot
+    PID TTY          TIME CMD
+1501375 ?        00:24:12 spot
+cp: cannot stat 'emergency.message': No such file or directory
+    PID TTY          TIME CMD
+1501375 ?        03:03:23 spot
+cp: cannot stat 'emergency.message': No such file or directory
+cp: cannot stat 'emergency.message': No such file or directory
+    PID TTY          TIME CMD
+1792725 ?        00:00:02 spot
+cp: cannot stat 'emergency.message': No such file or directory
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+mkdir: cannot create directory ‘7_4_6’: File exists
+cp: cannot stat 'emergency.message': No such file or directory
+cp: cannot stat 'emergency.message': No such file or directory
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+1806904 ?        00:00:01 spot
+    PID TTY          TIME CMD
+1806904 ?        00:00:03 spot
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD

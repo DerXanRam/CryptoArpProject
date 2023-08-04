@@ -1,0 +1,128 @@
+dumping round 292 iter 80 Thu Aug  3 22:11:29 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4790.4560276","price":"0.01042176","slippage":"0.00066","fee":"0.075"}
+
+dumping round 292 iter 80 Thu Aug  3 22:11:29 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4790.4560276","baseQty":"0.00171225","price":"2777777.77777778","slippage":"0.00117","fee":"7.18568405"}
+
+dumping round 292 iter 80 Thu Aug  3 22:11:29 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171225","baseQty":"49.93973402","price":"0.00003423","slippage":"0","fee":"0.00000257"}
+
+dumping round 1 iter 1 Thu Aug  3 22:11:29 2023
+ [{"asset":"USDT","free":"60.87335801","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208395"}]
+
+dumping round 1 iter 1 Thu Aug  3 22:11:30 2023
+ {"swapId":558231175}
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:32 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ [{"asset":"TLM","free":"5831.1830843","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00204091"}]
+
+dumping round 1 iter 1 Thu Aug  3 22:11:33 2023
+ {"swapId":558231181}
+
+dumping round 1 iter 1 Thu Aug  3 22:11:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:35 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ [{"asset":"BTC","free":"0.00208358","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208358"}]
+
+dumping round 1 iter 1 Thu Aug  3 22:11:36 2023
+ {"swapId":558231189}
+
+-----profitable----------
+dumping round 292 iter 80 Thu Aug  3 22:11:36 2023
+ {"quoteAsset":"USDT","baseAsset":"TLM","quoteQty":"50","baseQty":"4780.90178227","price":"0.01044259","slippage":"0.00066","fee":"0.075"}
+
+dumping round 292 iter 80 Thu Aug  3 22:11:36 2023
+ {"quoteAsset":"TLM","baseAsset":"BTC","quoteQty":"4780.90178227","baseQty":"0.00170278","price":"2777777.77777778","slippage":"0.00117","fee":"7.17135268"}
+
+dumping round 292 iter 80 Thu Aug  3 22:11:37 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170278","baseQty":"49.66095975","price":"0.00003424","slippage":"0","fee":"0.00000256"}
+
+not profitable

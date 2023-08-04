@@ -1,0 +1,142 @@
+
+
+		 Arbitrage bot v2.0
+
+dumping round 1 iter 0 Fri Aug  4 07:36:07 2023
+ {"quoteAsset":"USDT","baseAsset":"BTC","quoteQty":"50","baseQty":"0.00171088","price":"29180.04085206","slippage":"0.00002","fee":"0.075"}
+
+dumping round 1 iter 0 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"BTC","baseAsset":"USDC","quoteQty":"0.00171088","baseQty":"49.79562858","price":"0.00003431","slippage":"0.00059","fee":"0.00000257"}
+
+dumping round 1 iter 0 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.79562858","baseQty":"49.73631115","price":"0.99969085","slippage":"0.00001","fee":"0.07469345"}
+
+		graph is USDT-BTC-USDC
+		total amount is 49.7363
+
+dumping round 1 iter 1 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"USDT","baseAsset":"BTC","quoteQty":"50","baseQty":"0.00171088","price":"29180.04085206","slippage":"0.00002","fee":"0.075"}
+
+dumping round 1 iter 1 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"BTC","baseAsset":"BUSD","quoteQty":"0.00171088","baseQty":"49.82034793","price":"0.00003429","slippage":"0","fee":"0.00000257"}
+
+dumping round 1 iter 1 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.82034793","baseQty":"49.75187109","price":"0.99987431","slippage":"0","fee":"0.07473053"}
+
+		graph is USDT-BTC-BUSD
+		total amount is 49.7519
+
+dumping round 1 iter 2 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"USDT","baseAsset":"BTC","quoteQty":"50","baseQty":"0.00171088","price":"29180.04085206","slippage":"0.00002","fee":"0.075"}
+
+dumping round 1 iter 2 Fri Aug  4 07:36:08 2023
+ {"quoteAsset":"BTC","baseAsset":"ETH","quoteQty":"0.00171088","baseQty":"0.02719647","price":"0.06281367","slippage":"0.00001","fee":"0.00000257"}
+
+dumping round 1 iter 2 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.02719647","baseQty":"49.7649098","price":"0.00054568","slippage":"0.00002","fee":"0.0000408"}
+
+		graph is USDT-BTC-ETH
+		total amount is 49.7649
+
+dumping round 1 iter 3 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"USDT","baseAsset":"BNB","quoteQty":"50","baseQty":"0.20637383","price":"241.91519421","slippage":"0.00005","fee":"0.075"}
+
+dumping round 1 iter 3 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"BNB","baseAsset":"USDC","quoteQty":"0.20637383","baseQty":"49.76313986","price":"0.0041409","slippage":"0.00073","fee":"0.00030957"}
+
+dumping round 1 iter 3 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.76313986","baseQty":"49.70386114","price":"0.99969085","slippage":"0.00001","fee":"0.07464471"}
+
+		graph is USDT-BNB-USDC
+		total amount is 49.7039
+
+dumping round 1 iter 4 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"USDT","baseAsset":"BNB","quoteQty":"50","baseQty":"0.20637383","price":"241.91519421","slippage":"0.00005","fee":"0.075"}
+
+dumping round 1 iter 4 Fri Aug  4 07:36:09 2023
+ {"quoteAsset":"BNB","baseAsset":"BUSD","quoteQty":"0.20637383","baseQty":"49.78914403","price":"0.00413874","slippage":"0.00002","fee":"0.00030957"}
+
+dumping round 1 iter 4 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.78914403","baseQty":"49.72071003","price":"0.99987431","slippage":"0","fee":"0.07468372"}
+
+		graph is USDT-BNB-BUSD
+		total amount is 49.7207
+
+dumping round 1 iter 5 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"USDT","baseAsset":"BNB","quoteQty":"50","baseQty":"0.20637383","price":"241.91519421","slippage":"0.00005","fee":"0.075"}
+
+dumping round 1 iter 5 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"BNB","baseAsset":"ETH","quoteQty":"0.20637383","baseQty":"0.02719129","price":"7.5783187","slippage":"0.00001","fee":"0.00030957"}
+
+dumping round 1 iter 5 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.02719129","baseQty":"49.7554316","price":"0.00054568","slippage":"0.00002","fee":"0.00004079"}
+
+		graph is USDT-BNB-ETH
+		total amount is 49.7554
+
+dumping round 1 iter 6 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"USDT","baseAsset":"ETH","quoteQty":"50","baseQty":"0.02724119","price":"1832.71021186","slippage":"0.00003","fee":"0.075"}
+
+dumping round 1 iter 6 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"ETH","baseAsset":"USDC","quoteQty":"0.02724119","baseQty":"49.76078272","price":"0.00054662","slippage":"0.00107","fee":"0.00004087"}
+
+dumping round 1 iter 6 Fri Aug  4 07:36:10 2023
+ {"quoteAsset":"USDC","baseAsset":"USDT","quoteQty":"49.76078272","baseQty":"49.7015068","price":"0.99969085","slippage":"0.00001","fee":"0.07464118"}
+
+		graph is USDT-ETH-USDC
+		total amount is 49.7015
+
+dumping round 1 iter 7 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"USDT","baseAsset":"ETH","quoteQty":"50","baseQty":"0.02724119","price":"1832.71021186","slippage":"0.00003","fee":"0.075"}
+
+dumping round 1 iter 7 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"ETH","baseAsset":"BUSD","quoteQty":"0.02724119","baseQty":"49.80948039","price":"0.00054609","slippage":"0.00004","fee":"0.00004087"}
+
+dumping round 1 iter 7 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.80948039","baseQty":"49.7410184","price":"0.99987431","slippage":"0","fee":"0.07471423"}
+
+		graph is USDT-ETH-BUSD
+		total amount is 49.741
+
+dumping round 1 iter 8 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"USDT","baseAsset":"ETH","quoteQty":"50","baseQty":"0.02724119","price":"1832.71021186","slippage":"0.00003","fee":"0.075"}
+
+dumping round 1 iter 8 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"ETH","baseAsset":"DAI","quoteQty":"0.02724119","baseQty":"49.85337164","price":"0.00054561","slippage":"0.0001","fee":"0.00004087"}
+
+dumping round 1 iter 8 Fri Aug  4 07:36:11 2023
+ {"quoteAsset":"DAI","baseAsset":"USDT","quoteQty":"49.85337164","baseQty":"49.78147663","price":"0.99994204","slippage":"0.00005","fee":"0.07478006"}
+
+		graph is USDT-ETH-DAI
+		total amount is 49.7815
+
+dumping round 1 iter 9 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"USDT","baseAsset":"HOOK","quoteQty":"50","baseQty":"54.15419698","price":"0.92190454","slippage":"0.00038","fee":"0.075"}
+
+dumping round 1 iter 9 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"HOOK","baseAsset":"BUSD","quoteQty":"54.15419698","baseQty":"49.74969628","price":"1.08690042","slippage":"0.00099","fee":"0.0812313"}
+
+dumping round 1 iter 9 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"BUSD","baseAsset":"USDT","quoteQty":"49.74969628","baseQty":"49.68131649","price":"0.99987431","slippage":"0","fee":"0.07462455"}
+
+		graph is USDT-HOOK-BUSD
+		total amount is 49.6813
+
+dumping round 1 iter 10 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"USDT","baseAsset":"HOOK","quoteQty":"50","baseQty":"54.15419698","price":"0.92190454","slippage":"0.00038","fee":"0.075"}
+
+dumping round 1 iter 10 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"HOOK","baseAsset":"BTC","quoteQty":"54.15419698","baseQty":"0.00170725","price":"31675.64143174","slippage":"0.00027","fee":"0.0812313"}
+
+dumping round 1 iter 10 Fri Aug  4 07:36:12 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170725","baseQty":"49.74207423","price":"0.00003427","slippage":"0.0003","fee":"0.00000257"}
+
+		graph is USDT-HOOK-BTC
+		total amount is 49.7421
+
+dumping round 1 iter 11 Fri Aug  4 07:36:13 2023
+ {"quoteAsset":"USDT","baseAsset":"APT","quoteQty":"50","baseQty":"7.39311412","price":"6.75290532","slippage":"0.00049","fee":"0.075"}
+
+dumping round 1 iter 11 Fri Aug  4 07:36:13 2023
+ {"code":-12015,"msg":"Input parameter setting error"}
+

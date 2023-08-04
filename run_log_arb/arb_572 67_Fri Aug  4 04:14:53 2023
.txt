@@ -1,0 +1,19 @@
+dumping round 572 iter 67 Fri Aug  4 04:14:53 2023
+ {"quoteAsset":"USDT","baseAsset":"BAKE","quoteQty":"50","baseQty":"524.96410729","price":"0.09510174","slippage":"0.00059","fee":"0.075"}
+
+dumping round 572 iter 67 Fri Aug  4 04:14:53 2023
+ {"quoteAsset":"BAKE","baseAsset":"BTC","quoteQty":"524.96410729","baseQty":"0.00171751","price":"304878.04878049","slippage":"0.00143","fee":"0.78744617"}
+
+dumping round 572 iter 67 Fri Aug  4 04:14:53 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171751","baseQty":"50.00521218","price":"0.0000343","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 Fri Aug  4 04:14:53 2023
+ []
+
+0empty square bracket detected. Reinitializing request....
+dumping round 1 iter 1 Fri Aug  4 04:14:54 2023
+ [{"asset":"BAKE","free":"629.60558189","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00205881"}]
+
+dumping round 1 iter 1 Fri Aug  4 04:14:54 2023
+ {"code":-12010,"msg":"user asset freeze failed, please check whether your balance is enough"}
+

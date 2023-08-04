@@ -1,0 +1,89 @@
+dumping round 400 iter 67 Fri Aug  4 00:30:21 2023
+ {"quoteAsset":"USDT","baseAsset":"BAKE","quoteQty":"50","baseQty":"523.63263816","price":"0.09534356","slippage":"0.00059","fee":"0.075"}
+
+dumping round 400 iter 67 Fri Aug  4 00:30:21 2023
+ {"quoteAsset":"BAKE","baseAsset":"BTC","quoteQty":"523.63263816","baseQty":"0.00171397","price":"304878.04878049","slippage":"0.00127","fee":"0.78544896"}
+
+dumping round 400 iter 67 Fri Aug  4 00:30:21 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00171397","baseQty":"49.95868405","price":"0.00003426","slippage":"0","fee":"0.00000258"}
+
+dumping round 1 iter 1 Fri Aug  4 00:30:22 2023
+ [{"asset":"USDT","free":"60.76971817","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208082"}]
+
+dumping round 1 iter 1 Fri Aug  4 00:30:22 2023
+ {"swapId":558260680}
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:24 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ []
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ [{"asset":"BAKE","free":"636.32011173","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208077"}]
+
+dumping round 1 iter 1 Fri Aug  4 00:30:25 2023
+ {"swapId":558260796}
+
+dumping round 1 iter 1 Fri Aug  4 00:30:28 2023
+ [{"asset":"BTC","free":"0.00208211","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208211"}]
+
+dumping round 1 iter 1 Fri Aug  4 00:30:28 2023
+ {"swapId":558260809}
+
+-----profitable----------
+dumping round 400 iter 67 Fri Aug  4 00:30:28 2023
+ {"quoteAsset":"USDT","baseAsset":"BAKE","quoteQty":"50","baseQty":"523.16349344","price":"0.09542906","slippage":"0.00059","fee":"0.075"}
+
+dumping round 400 iter 67 Fri Aug  4 00:30:28 2023
+ {"quoteAsset":"BAKE","baseAsset":"BTC","quoteQty":"523.16349344","baseQty":"0.00170588","price":"305810.39755352","slippage":"0.00127","fee":"0.78474525"}
+
+dumping round 400 iter 67 Fri Aug  4 00:30:28 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170588","baseQty":"49.71538496","price":"0.00003426","slippage":"0","fee":"0.00000256"}
+
+not profitable

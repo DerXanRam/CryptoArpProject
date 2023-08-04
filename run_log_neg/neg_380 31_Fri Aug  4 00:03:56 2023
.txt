@@ -1,0 +1,10 @@
+dumping round 380 iter 31 Fri Aug  4 00:03:56 2023
+ {"quoteAsset":"USDT","baseAsset":"THETA","quoteQty":"50","baseQty":"65.85719358","price":"0.75807967","slippage":"0.00029","fee":"0.075"}
+
+dumping round 380 iter 31 Fri Aug  4 00:03:57 2023
+ {"quoteAsset":"THETA","baseAsset":"ETH","quoteQty":"65.85719358","baseQty":"0.02722281","price":"2415.57563167","slippage":"0.0004","fee":"0.0987858"}
+
+dumping round 380 iter 31 Fri Aug  4 00:03:57 2023
+ {"quoteAsset":"ETH","baseAsset":"USDT","quoteQty":"0.02722281","baseQty":"49.92578597","price":"0.00054445","slippage":"0.00002","fee":"0.00004084"}
+
+not profitable

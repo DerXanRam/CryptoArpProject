@@ -1,0 +1,77 @@
+dumping round 177 iter 88 Thu Aug  3 19:42:53 2023
+ {"quoteAsset":"USDT","baseAsset":"ILV","quoteQty":"50","baseQty":"1.16792311","price":"42.74682551","slippage":"0.00115","fee":"0.075"}
+
+dumping round 177 iter 88 Thu Aug  3 19:42:54 2023
+ {"quoteAsset":"ILV","baseAsset":"BTC","quoteQty":"1.16792311","baseQty":"0.00170817","price":"682.70103839","slippage":"0.00229","fee":"0.00175189"}
+
+dumping round 177 iter 88 Thu Aug  3 19:42:54 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00170817","baseQty":"49.93611336","price":"0.00003416","slippage":"0","fee":"0.00000257"}
+
+dumping round 1 iter 1 Thu Aug  3 19:42:54 2023
+ [{"asset":"USDT","free":"60.99745829","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208254"}]
+
+dumping round 1 iter 1 Thu Aug  3 19:42:54 2023
+ {"swapId":558200196}
+
+dumping round 1 iter 1 Thu Aug  3 19:42:57 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:57 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:57 2023
+ [{"asset":"ILV","free":"1.42444246","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00207541"}]
+
+dumping round 1 iter 1 Thu Aug  3 19:42:57 2023
+ {"swapId":558200199}
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:42:59 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ []
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ [{"asset":"BTC","free":"0.00208231","locked":"0","freeze":"0","withdrawing":"0","ipoable":"0","btcValuation":"0.00208231"}]
+
+dumping round 1 iter 1 Thu Aug  3 19:43:00 2023
+ {"swapId":558200200}
+
+-----profitable----------
+dumping round 177 iter 88 Thu Aug  3 19:43:00 2023
+ {"quoteAsset":"USDT","baseAsset":"ILV","quoteQty":"50","baseQty":"1.16722394","price":"42.77242291","slippage":"0.00115","fee":"0.075"}
+
+dumping round 177 iter 88 Thu Aug  3 19:43:00 2023
+ {"quoteAsset":"ILV","baseAsset":"BTC","quoteQty":"1.16722394","baseQty":"0.00169766","price":"686.51613656","slippage":"0.00229","fee":"0.00175084"}
+
+dumping round 177 iter 88 Thu Aug  3 19:43:00 2023
+ {"quoteAsset":"BTC","baseAsset":"USDT","quoteQty":"0.00169766","baseQty":"49.62629748","price":"0.00003416","slippage":"0","fee":"0.00000255"}
+
+not profitable
