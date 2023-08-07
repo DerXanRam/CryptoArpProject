@@ -1,9 +1,0 @@
-		started
-    PID TTY          TIME CMD
-    PID TTY          TIME CMD
-1501375 ?        00:23:49 spot
-    PID TTY          TIME CMD
-1501375 ?        00:24:12 spot
-cp: cannot stat 'emergency.message': No such file or directory
-    PID TTY          TIME CMD
-1501375 ?        03:03:23 spot

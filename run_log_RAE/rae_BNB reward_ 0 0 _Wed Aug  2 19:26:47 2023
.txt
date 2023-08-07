@@ -1,6 +1,0 @@
-dumping round collect 1 iter 1 Wed Aug  2 19:26:48 2023
- {"totalUnclaimedRewards":{"BNB":"0.0012848"},"details":{"BCH/BNB":{"BNB":"0.00010883"},"BAKE/USDT":{"BNB":"0.00010628"},"BNB/USDT":{"BNB":"0.00010811"},"ATA/BTC":{"BNB":"0.0001069"},"BTC/USDT":{"BNB":"0.00032016"},"TLM/USDT":{"BNB":"0.00010642"},"TLM/BTC":{"BNB":"0.00010592"},"BAKE/BTC":{"BNB":"0.00010628"},"BCH/USDT":{"BNB":"0.0001088"},"ATA/USDT":{"BNB":"0.0001071"}}}
-
-dumping round by swapp 0 iter 0 Wed Aug  2 19:26:48 2023
- {"success":true}
-
