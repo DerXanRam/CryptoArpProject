@@ -1,0 +1,4 @@
+		started
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+3561155 pts/0    00:00:01 spot
