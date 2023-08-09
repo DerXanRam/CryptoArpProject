@@ -1,0 +1,4 @@
+		started
+    PID TTY          TIME CMD
+3930262 pts/0    00:00:03 spot
+curl_easy_perform() failed: SSL connect error
