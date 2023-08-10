@@ -1,0 +1,12 @@
+		started
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+    PID TTY          TIME CMD
+ 100751 pts/1    00:00:02 spot
+    PID TTY          TIME CMD
+ 100751 ?        00:19:00 spot
+cp: cannot stat 'emergency.message': No such file or directory
+    PID TTY          TIME CMD
+ 100751 ?        06:29:02 spot
+    PID TTY          TIME CMD
+ 100751 ?        08:13:08 spot
