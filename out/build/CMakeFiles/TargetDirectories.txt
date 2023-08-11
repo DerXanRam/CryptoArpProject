@@ -1,0 +1,3 @@
+/home/biruk/Downloads/Cpp-Crypto-Arbitrage-Framework-main/Framework/out/build/CMakeFiles/Crypto.dir
+/home/biruk/Downloads/Cpp-Crypto-Arbitrage-Framework-main/Framework/out/build/CMakeFiles/edit_cache.dir
+/home/biruk/Downloads/Cpp-Crypto-Arbitrage-Framework-main/Framework/out/build/CMakeFiles/rebuild_cache.dir
