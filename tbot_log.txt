@@ -1,0 +1,551 @@
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492174,
+"message":{"message_id":259,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690062872,"text":"/StaT","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492175,
+"message":{"message_id":261,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063531,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492176,
+"message":{"message_id":262,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063558,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":264,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063570,"text":"gained profit is 0.000000\ntotal num of opportunities are 0"}}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492177,
+"message":{"message_id":263,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063569,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492178,
+"message":{"message_id":265,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063580,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}
+
+dumping {"ok":true,"result":[{"update_id":787492178,
+"message":{"message_id":265,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063580,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492178,
+"message":{"message_id":265,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063580,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492178,
+"message":{"message_id":265,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063580,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492178,
+"message":{"message_id":265,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063580,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492179,
+"message":{"message_id":266,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063628,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}
+
+dumping {"ok":true,"result":[{"update_id":787492179,
+"message":{"message_id":266,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063628,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492179,
+"message":{"message_id":266,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063628,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492179,
+"message":{"message_id":266,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063628,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":268,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063632,"text":"gained profit is 0.000000\ntotal num of opportunities are 0"}}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492180,
+"message":{"message_id":267,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063631,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492181,
+"message":{"message_id":269,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063661,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}
+
+dumping {"ok":true,"result":[{"update_id":787492181,
+"message":{"message_id":269,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063661,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492181,
+"message":{"message_id":269,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063661,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492181,
+"message":{"message_id":269,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063661,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492182,
+"message":{"message_id":270,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063766,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":271,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063766,"text":"gained profit is 0.000000\ntotal num of opportunities are 0"}}
+
+dumping {"ok":true,"result":[{"update_id":787492182,
+"message":{"message_id":270,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063766,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492182,
+"message":{"message_id":270,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063766,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":273,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063769,"text":"no opportunity found"}}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492183,
+"message":{"message_id":272,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063768,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492184,
+"message":{"message_id":274,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063775,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":275,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063776,"text":"no opportunity found"}}
+
+dumping {"ok":true,"result":[{"update_id":787492184,
+"message":{"message_id":274,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063775,"text":"/founds","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":{"message_id":277,"from":{"id":5842114288,"is_bot":true,"first_name":"CryptoX","username":"CryptoXan_bot"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063779,"text":"gained profit is 0.000000\ntotal num of opportunities are 0"}}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[{"update_id":787492185,
+"message":{"message_id":276,"from":{"id":1010606030,"is_bot":false,"first_name":"Bura","username":"rbxapi","language_code":"en"},"chat":{"id":1010606030,"first_name":"Bura","username":"rbxapi","type":"private"},"date":1690063777,"text":"/profits","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}
+
+dumping {"ok":true,"result":[]}
+
+dumping {"ok":true,"result":[]}
+
